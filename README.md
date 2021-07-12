@@ -2,7 +2,7 @@
 
 <h3> :woman_technologist: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando FrontEnd na <a href="https://reprograma.com.br/">Reprograma</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Html, Css, JavaScript, ReactJS.
 
