@@ -1,5 +1,4 @@
 
-
 <h3> :woman_technologist: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
