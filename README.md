@@ -2,7 +2,7 @@
 <h3> :woman_technologist: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Estudandte de  FrontEnd e Mobile.
+- 🎓 &nbsp; Estudante de  FrontEnd e Mobile.
 - 🌱 &nbsp; Aprendendo mais sobre Html, Css, JavaScript, ReactJS.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
