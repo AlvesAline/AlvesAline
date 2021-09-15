@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudante de  FrontEnd e Mobile.
-- 🌱 &nbsp; Aprendendo mais sobre Html, Css, JavaScript, ReactJS.
+- 🌱 &nbsp; Aprendendo mais sobre Html, Css, JavaScript, ReactJS, React Native, Dart, Flutter.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
